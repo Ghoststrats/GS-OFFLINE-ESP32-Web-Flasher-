@@ -1,7 +1,5 @@
 # GS-OFFLINE-ESP32-Web-Flasher-
 Offline ESP32 Web Flasher 
-# GS ESP32 Web Flasher
-
 **A Free, Portable, Beginner-Friendly ESP32 Firmware Flashing Tool**
 
 Developed by **GhostStrats**
